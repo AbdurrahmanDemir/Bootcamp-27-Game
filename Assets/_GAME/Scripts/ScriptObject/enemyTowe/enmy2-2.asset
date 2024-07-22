@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4520ce908146864e98585ab40162067, type: 3}
+  m_Name: enmy2-2
+  m_EditorClassIdentifier: 
+  _enemy: {fileID: 613503285628138572, guid: 5c2029ccd1c84914088a617114d89377, type: 3}
+  health: 250
+  speed: 0.4
+  damage: 70
