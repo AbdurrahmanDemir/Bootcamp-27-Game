@@ -53,7 +53,9 @@ Super tower, hedef ve savunma odaklı, kule yapılandırma ve yükseltme hedefli
 Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
 
 
-Toplantı ve Whatsapp ScreenShotları:
+<details>
+  <summary> Toplantı ve Whatsapp ScreenShotları: </summary>
+  
 
 <img width="650" alt="Ekran Resmi 2024-07-09 20 58 21" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/1f5c3dd0-c1e0-460c-a4ac-6d3d4690c0f3">
 
@@ -61,26 +63,41 @@ Toplantı ve Whatsapp ScreenShotları:
 
 <img width="643" alt="Ekran Resmi 2024-07-09 20 58 07" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/7fd44f95-6c73-4d6f-8607-8d4c23bd36ae">
 
-
+</details>
 
 
 **Toplantı Notları:**
 
+27 Haziran Tarihli Toplantı 
+Takım tanışması ve oyun fikirleri hakkında toplantı gerçekleştirildi. 
+
+1 Temmuz Tarihli Toplantı
+- Oyun fikirleri hakkında oylama yapıldı. Son 2’ye kalan oyunlar için tüm takım üyelerinin asset araştırması ve detaylandırma yapacağına karar verildi. 
+- Görev paylaşımı yapıldı.
 
 
-<img width="516" alt="Ekran Resmi 2024-07-10 12 03 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/a026b260-1767-4b37-b593-9a574611f945">
+3 Temmuz Tarihli Toplantı
+Oyunun ana teması tasarım dili ve assetler konusunda karar verildi. Görev paylaşımı yapıldı. 
+
+5 Temmuz Tarihli Toplantı
+Oluşturulan backlog ve Asana projesi üzerinde düzenlemeler yapılarak tasklar atandı. 
 
 
 
-**Sprint 1 board update: Sprint Board Screenshot:**
+
+<details>
+  <summary> Sprint 1 board update: Sprint Board Screenshot: </summary>
 
 <img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
 
+</details>
 
+<details>
+  <summary> Ürün Durumu Ekran Görüntüleri:  </summary>
 
-Ürün Durumu Ekran Görüntüleri: 
-  
 ![db4cf23c-5c9b-4902-8583-72e54f73b75d](https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/42d4c028-757e-4686-b2ee-2e5eed387a60)
+
+</details>
 
 
 ### **Sprint Review:**
@@ -115,36 +132,48 @@ Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılm�
 Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
 
 
-Toplantı ve Whatsapp ScreenShotları:
-
+<details>
+  <summary> Toplantı ve Whatsapp ScreenShotları:  </summary>
 
 <img width="239" alt="Ekran Resmi 2024-07-17 21 54 47" src="https://github.com/user-attachments/assets/5b7ca3c3-5fc0-424c-99db-33b2e6536768">
 
+</details>
 
 
 **Toplantı Notları:**
 
+17 Temmuz 
+- Takım üyelerinin yoğunluğu ve rahatsızlığı nedeniyle tüm takımın bir araya geldiği toplantı bu tarihte gerçekleştirildi. 
+- Github erişiminde bir sorun olduğu anlaşıldı bunun için çözüm yolları tartışıldı. Çözülemezse yeni repository açılacak. 
+- Oyunun geliştirilmesinde bazı zorluklarla karşılaşıldı bunlar hakkında çözüm yolları tartışıldı. 
+- Başlangıçta kararlaştırılan featurelarda değişiklik kararı alındı. 
 
 
 
-<img width="471" alt="17 temmuz toplant" src="https://github.com/user-attachments/assets/94d4021f-04c9-41e9-b8d4-d792bfe34efa">
+<details>
+  <summary>  Sprint 2 board update: Sprint Board Screenshot: </summary>
 
-
-
-**Sprint 2 board update: Sprint Board Screenshot:**
 
 <img width="1003" alt="Ekran Resmi 2024-07-21 21 13 46" src="https://github.com/user-attachments/assets/cba56b92-3724-4b2d-95f5-d853da642538">
 
+</details>
+
+
+<details>
+  <summary>  Ürün Durumu Ekran Görüntüleri:  </summary>
 
 
 
-Ürün Durumu Ekran Görüntüleri: 
   
 ![IMG_3485](https://github.com/user-attachments/assets/f842508c-c1f4-4b71-8f14-8accbbfe8ded)
 
 ![IMG_3484](https://github.com/user-attachments/assets/635f90c5-2b06-4e30-b987-4172e1beacd5)
 
 ![IMG_3483](https://github.com/user-attachments/assets/3c6b0999-d286-494f-bc33-951a001065ae)
+
+</details>
+
+
 
 ### **Sprint Review:**
 
@@ -158,4 +187,56 @@ Sprint Başlangıç ve Sprint Review toplantıları gerçekleştirilmiştir.
 Ortaya çıkan engeller hakkında analiz yapılmıştır. Önümüzdeki sprintte bu engellerle karşılaşılmaması adına birtakım bilgi ve tecrübe paylaşımı gerçekleştirilmiştir. 
 
 --------------------------------------------------------------------------
+### **SPRINT-3**
+
+- Sprint içi tamamlanması gereken puan: 12.
+
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. 
+
+- Bu Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
+
+Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
+
+
+<details>
+  <summary> Toplantı ve Whatsapp ScreenShotları:  </summary>
+
+
+</details>
+
+
+**Toplantı Notları:**
+
+... Temmuz 
+-
+
+
+
+<details>
+  <summary>  Sprint 3 board update: Sprint Board Screenshot: </summary>
+
+
+
+</details>
+
+
+<details>
+  <summary>  Ürün Durumu Ekran Görüntüleri:  </summary>
+
+
+
+</details>
+
+
+
+### **Sprint Review:**
+
+**Sprint Review katılımcıları:** Abdurrahman Demir, Arif Emre Damarcı, Hazal Karayiğit, Mert Ayhan, Raziye Büşra Gökşin
+
+Ürün geliştirme tamamlandı. 
+
+### **Sprint Retrospective:**
+
+
 
