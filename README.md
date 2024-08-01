@@ -26,7 +26,7 @@ https://app.asana.com/0/1207732907689169/1207733343701554
 
 ### **Oyun Açıklaması**
 
-Super tower, hedef ve savunma odaklı, kule yapılandırma ve yükseltme hedefli bir strateji oyunudur. 
+Citadel Siege, hedef ve savunma odaklı, kule yapılandırma ve yükseltme hedefli bir strateji oyunudur. 
 
 ### **Oyun Özellikleri**
 - 2D
