@@ -66,7 +66,7 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 </details>
 
 
-**Toplantı Notları:**
+**Sprint Notları:**
 
 27 Haziran Tarihli Toplantı 
 Takım tanışması ve oyun fikirleri hakkında toplantı gerçekleştirildi. 
@@ -140,7 +140,7 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 </details>
 
 
-**Toplantı Notları:**
+**Sprint Notları:**
 
 17 Temmuz 
 - Takım üyelerinin yoğunluğu ve rahatsızlığı nedeniyle tüm takımın bir araya geldiği toplantı bu tarihte gerçekleştirildi. 
@@ -206,7 +206,7 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 </details>
 
 
-**Toplantı Notları:**
+**Sprint Notları:**
 
 ... Temmuz 
 -
