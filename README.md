@@ -203,18 +203,24 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
   <summary> Toplantı ve Whatsapp ScreenShotları:  </summary>
 
 
+![IMG_3574](https://github.com/user-attachments/assets/bcb2baa0-6275-49f1-a5b2-3bb713f8a31e)
+![IMG_3570](https://github.com/user-attachments/assets/49220b3a-1bdc-43e8-883b-96223c2821b1)
+
+
 </details>
 
 
 **Sprint Notları:**
 
-... Temmuz 
--
+-Level tasarımı tamamlanmıştır. 
+-Oyun son haline getirilerek test edilmiştir.  
 
 
 
 <details>
   <summary>  Sprint 3 board update: Sprint Board Screenshot: </summary>
+  
+<img width="798" alt="asana" src="https://github.com/user-attachments/assets/29efaf57-a185-4f14-8f9a-64065d21e7ad">
 
 
 
@@ -224,6 +230,8 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 <details>
   <summary>  Ürün Durumu Ekran Görüntüleri:  </summary>
 
+![IMG_3571](https://github.com/user-attachments/assets/c602f1dd-a0bb-4e64-9818-a51e0c9b9b8e)
+![IMG_3573](https://github.com/user-attachments/assets/54fdb020-45e6-4d75-9b2f-acfc97613ff8)
 
 
 </details>
@@ -234,9 +242,9 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 
 **Sprint Review katılımcıları:** Abdurrahman Demir, Arif Emre Damarcı, Hazal Karayiğit, Mert Ayhan, Raziye Büşra Gökşin
 
-Ürün geliştirme tamamlandı. 
+Ürün geliştirme tamamlandı. Ürün teslimi için gerekli belgeler hazırlandı, build alındı. 
 
 ### **Sprint Retrospective:**
 
-
+Görev paylaşımı ve taskların tamamlanması konusunda olumlu olumsuz değerlendirmeler yapıldı.
 
